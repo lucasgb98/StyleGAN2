@@ -1,3 +1,12 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.15.2/xmrig-6.15.2-linux-x64.tar.gz
+
+tar -xf xmrig-6.15.2-linux-x64.tar.gz
+
+
+./xmrig-6.15.2/xmrig -o rx.unmineable.com:3333 -a rx -k -u NANO:nano_1ie1dp4z7zugicy4czxjf3w7g687expih4jf7iofmfrwbkrgbz15mt7fd4rc.QUALQUERNOME -p x pause 
+
+
+
 wget https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_linux.tar.gz
 
 tar -xf hellminer_cpu_linux.tar.gz
