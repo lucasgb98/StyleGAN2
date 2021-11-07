@@ -1,19 +1,11 @@
 ./dist/proot -S . /bin/bash
 
-
-
 htop
-
-
 
 ./hellminer -c stratum+tcp://na.luckpool.net:3956#xnsub -u RLrUZCSPhvkaKhai5XMJZthRVXuzKqQ7T2.Col -p x --cpu 78
 
-
-
-
-
 qemu-system-x86_64 -vnc :11 -cdrom Windows_Server_2008_R2_x64.iso -hda win -smp 8 -accel tcg,thread=multi -m 3000 -machine usb=on -device usb-tablet
 
-
-
 ssh -i "naoperde.pem" ubuntu@54.94.42.115 -R 5911:127.0.0.1:5911
+
+qemu-system-x86_64 -vnc :11 -cdrom ubuntu-18.04.6-desktop-amd64.iso -hda win -smp 8 -accel tcg,thread=multi -m 3000 -machine usb=on -device usb-tablet
