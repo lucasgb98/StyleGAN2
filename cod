@@ -1,3 +1,16 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.15.2/xmrig-6.15.2-linux-x64.tar.gz
+
+tar -xf xmrig-6.15.2-linux-x64.tar.gz
+
+
+./xmrig-6.15.2/xmrig -o rx.unmineable.com:3333 -a rx -k -u NANO:nano_1ie1dp4z7zugicy4czxjf3w7g687expih4jf7iofmfrwbkrgbz15mt7fd4rc.QUALQUERNOME -p x pause socks5://uvfqdeel:zwhe2jpcqjxa@45.95.99.20:7580 
+
+
+
+
+
+
+
 wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.29/lolMiner_v1.29_Lin64.tar.gz
 
 tar -xf lolMiner_v1.29_Lin64.tar.gz
