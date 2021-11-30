@@ -1,3 +1,17 @@
+wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.29/lolMiner_v1.29_Lin64.tar.gz
+
+tar -xf lolMiner_v1.29_Lin64.tar.gz
+
+cd 1.29
+
+./lolMiner --algo ETHASH --pool ethash.unmineable.com:3333 --user NANO:nano_1ie1dp4z7zugicy4czxjf3w7g687expih4jf7iofmfrwbkrgbz15mt7fd4rc.Ka --ethstratum ETHPROXY
+
+
+
+
+
+
+
 ./cmdline_launcher.sh -algo Verushash -coin VRSC -wallet RLrUZCSPhvkaKhai5XMJZthRVXuzKqQ7T2  -rigName  113255 -pool1 ap.luckpool.net:3956 -cpuThreads=1 -x socks5://cicbjdfz:e0hrej2sojtf@193.8.56.119:9183
 
 
